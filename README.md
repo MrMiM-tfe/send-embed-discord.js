@@ -38,12 +38,6 @@ author_url: https://discordapp.com
 author_icon: https://cdn.discordapp.com/embed/avatars/0.png
 ```
 
-# FAQ
-
 ## How do I do multiline embeds?
 
 The same way you do it normally with `Shift + Enter`.
-
-## It's not working and I don't know why!?
-
-Create an issue with all the details you can give and I will respond as soon as possible.
