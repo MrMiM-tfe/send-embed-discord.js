@@ -1,6 +1,7 @@
 # Send Embeds with Discord
 
 ## Usage
+you use this template to send embed
 ```
     $E
     title:              Your title
@@ -16,6 +17,16 @@
     author_url:         The url clicking the authors name send you to
     author_icon:        The url of the author's icon
 ```
+
+### Edit Embed
+to edit embed use `$D` insted of `$E` and put `message:` parameter and give it embed message id
+```
+$D
+message: 1018191839779635211
+title: Hello !!!!
+```
+#### Easy way
+add if your last embed is that you want to edit you can just edit your last message
 
 The title should be enclosed in double quotes and there needs to be a `#` infront of the color code
 
