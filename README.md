@@ -1,6 +1,6 @@
 # Send Embeds with Discord
 
-# Usage
+## Usage
 ```
     $E
     title:              Your title
