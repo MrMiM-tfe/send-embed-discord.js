@@ -1,4 +1,4 @@
-# Send Embeds Discord.js
+# Send Embeds with Discord
 
 # Usage
 ```
